@@ -1,14 +1,5 @@
 --------------------------------------------------------------------------------
--- Company: 
--- Engineer:
---
--- Create Date:   17:38:13 12/12/2020
--- Design Name:   
--- Module Name:   C:/Users/AMINE/Desktop/iia4/xilinx/VLSITP/testing.vhd
--- Project Name:  VLSITP
--- Target Device:  
--- Tool versions:  
--- Description:   
+
 -- 
 -- VHDL Test Bench Created by ISE for module: SerrureTP4
 -- 
