@@ -1,1 +1,1 @@
-# Smart-Digital-Lock
+# Smart-Digital-Lock-with-VHDL-state-machine
